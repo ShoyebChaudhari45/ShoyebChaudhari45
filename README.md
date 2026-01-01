@@ -14,7 +14,7 @@
 ## 📫 How to Reach Me  
 - 📧 Email: [chaudharishoyeb@gmail.com ]  
 - 💼 LinkedIn: [www.linkedin.com/in/shoyeb-chaudhari-033b44234]  
-- 🌐 Portfolio: [https://shoyebchaudhari-portfolio.vercel.app/]  
+- 🌐 Portfolio: [https://shoyeb.kodeneurons.tech/]  
 
 ## 😄 Pronouns  
 - He/Him  
