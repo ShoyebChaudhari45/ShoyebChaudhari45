@@ -1,21 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shoyeb+Chaudhari;Python+Developer;AI%2FML+Enthusiast;Android+%2B+Web+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shoyeb+Chaudhari" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">Python Developer | AI/ML Enthusiast | Android + Web Developer | Founder @ KodeNeurons</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShoyebChaudhari45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShoyebChaudhari45&label=Profile%20Views&color=00d9ff&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/ShoyebChaudhari45?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/ShoyebChaudhari45?label=Stars&style=social" alt="stars" />
 </p>
 
 <p align="center">
-  <strong>🚀 Final Year B.Tech CSE Student | Founder @ KodeNeurons | Turning Ideas into Impact</strong>
+  <strong>🚀 Final Year B.Tech CSE Student | Building Intelligent Systems | Turning Ideas into Impact</strong>
 </p>
 
 <p align="center">
-  <a href="https://shoyeb.kodeneurons.tech/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://shoyeb.kodeneurons.tech/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/shoyeb-chaudhari-033b44234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaudharishoyeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chaudharishoyeb@gmail.com"><img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
@@ -86,31 +88,34 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShoyebChaudhari45&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoyebChaudhari45&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
+  
+![Shoyeb's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShoyebChaudhari45&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShoyebChaudhari45&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShoyebChaudhari45&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShoyebChaudhari45&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
+### 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoyebChaudhari45&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ff6e96" alt="Contribution Graph" width="95%"/>
-</div>
+[![Shoyeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShoyebChaudhari45&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ShoyebChaudhari45)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🥇 **Best Event In-Charge** – INNOHACK 2025  
-🚀 **Submission** – Bhartiya Antariksh Hackathon 2025  
-🏆 **Winner** – AI & Security Day Hackathon  
-📜 **J.P. Morgan** – Software Engineering Job Simulation  
-📜 **Accenture** – Data Analytics and Visualization Job Simulation  
-✅ **Certificate of Participation** – AI and Security Day  
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShoyebChaudhari45&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+| Achievement | Details |
+|------------|---------|
+| 🥇 | **Best Event In-Charge** – INNOHACK 2025 |
+| 🚀 | **Submission** – Bhartiya Antariksh Hackathon 2025 |
+| 🏆 | **Winner** – AI & Security Day Hackathon |
+| 📜 | **J.P. Morgan** – Software Engineering Job Simulation |
+| 📜 | **Accenture** – Data Analytics and Visualization Job Simulation |
+| ✅ | **Certificate of Participation** – AI and Security Day |
+
 </div>
 
 ---
@@ -164,19 +169,18 @@ I'm actively looking for:
 
 <p align="center">
   <a href="https://shoyeb.kodeneurons.tech/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="mailto:chaudharishoyeb@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/ShoyebChaudhari45">ShoyebChaudhari45</a> with ❤️</i>
-</p>
+  <i>⭐️
