@@ -13,7 +13,7 @@
 <h3 align="center">Python Developer | AI/ML Enthusiast | Android + Web Developer | Founder @ KodeNeurons</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShoyebChaudhari45&label=Profile%20Views&color=00d9ff&style=flat" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=ShoyebChaudhari45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ShoyebChaudhari45?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/ShoyebChaudhari45?label=Stars&style=social" alt="stars" />
 </p>
@@ -361,6 +361,7 @@ I'm actively looking for:
   <a href="/cdn-cgi/l/email-protection#5a39323b2f3e323b2833293235233f381a3d373b333674393537">
     <img src="https://img.shields.io/badge/Email_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ShoyebChaudhari45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
