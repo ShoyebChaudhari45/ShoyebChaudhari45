@@ -85,18 +85,18 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShoyebChaudhari45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoyebChaudhari45&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShoyebChaudhari45&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoyebChaudhari45&layout=compact&langs_count=8&theme=radical&border_radius=10"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShoyebChaudhari45&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShoyebChaudhari45&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoyebChaudhari45&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoyebChaudhari45&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ff6e96" alt="Contribution Graph" width="95%"/>
+</div>
 
 ---
 
@@ -109,9 +109,9 @@ me.say_hi()
 📜 **Accenture** – Data Analytics and Visualization Job Simulation  
 ✅ **Certificate of Participation** – AI and Security Day  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShoyebChaudhari45&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShoyebChaudhari45&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ---
 
