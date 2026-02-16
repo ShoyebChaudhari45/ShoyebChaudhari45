@@ -56,10 +56,6 @@ me.say_hi()
 🔹 **Android & Web Enthusiast** — creating seamless user experiences  
 🔹 **Leader & Mentor** — Best Event In-Charge at INNOHACK 2025  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-</div>
-
 ---
 
 ## 🔄 My Development Workflow
