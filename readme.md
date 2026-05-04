@@ -153,7 +153,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-%2300F5FF.svg?style=for-the-badge&logoColor=black)](https://shoyeb.kodeneurons.tech/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Visit%20Portfolio-%2300F5FF.svg?style=for-the-badge&logoColor=black)](https://shoyeb.kodeneurons.in/)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/shoyeb-chaudhari-033b44234)
 [![Email](https://img.shields.io/badge/📬%20Email%20Me-D14836?style=for-the-badge&logoColor=white)](mailto:chaudharishoyeb@gmail.com)
 
