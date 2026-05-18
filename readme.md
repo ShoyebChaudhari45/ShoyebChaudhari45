@@ -145,7 +145,7 @@ me.say_hi()
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect-
 
 > 🔎 **Looking for** internships or freelance work in Android, Web, or ML  
 > 🤝 **Open to** collaborations on student & startup projects  
