@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300F5FF.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://shoyeb.kodeneurons.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300F5FF.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://shoyeb.kodeneurons.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoyeb-chaudhari-033b44234)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoyebChaudhari45)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharishoyeb@gmail.com)
