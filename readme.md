@@ -71,7 +71,7 @@ me.say_hi()
 
 </div>
 
----
+--
 
 ## 🛠️ Tech Stack
 
